@@ -30,7 +30,8 @@
 <!-- GLASSMORPHIC DIVIDER -->
 <!-- GOLD DIVIDER -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Crafting%20Experiences%20Not%20Just%20Screens&width=1000&height=130" />
+ <img src="https://github-widgetbox.vercel.app/api/badge?text=Full%20Stack%20Developer&color=0D1117&textColor=0EF6FF&svgIcons=cpu" />
+
 </p>
 
 
