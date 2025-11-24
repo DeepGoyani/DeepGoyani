@@ -28,9 +28,11 @@
 ---
 
 <!-- GLASSMORPHIC DIVIDER -->
+<!-- GOLD DIVIDER -->
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/badge?text=Crafting%20Experiences%20Not%20Just%20Screens&color=0D0D0D&textColor=0EF6FF&svgIcons=rocket" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Crafting%20Experiences%20Not%20Just%20Screens&width=1000&height=130" />
 </p>
+
 
 ---
 
