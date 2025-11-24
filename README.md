@@ -30,7 +30,7 @@
 <!-- GLASSMORPHIC DIVIDER -->
 <!-- GOLD DIVIDER -->
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/badge?text=AI%20%2F%20ML%20Learner&color=0B0B0B&textColor=00E1A7&svgIcons=brain" />
+<img src="https://github-widgetbox.vercel.app/api/badge?text=Crafting%20Experiences&color=0D1117&textColor=0EF6FF&svgIcons=rocket" />
 
 </p>
 
