@@ -1,73 +1,81 @@
-<!-- HERO SECTION -->
+<!-- LUXURY HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111827,100:000000&text=Deep%20Goyani&fontColor=FACC15&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=55&animation=fadeIn" />
+</p>
+
 <div align="center">
 
-# 🌌 Hey, I'm <span style="color:#00f0ff;">Deep Goyani</span>  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=FACC15&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Frontend+%26+Backend+Engineer;MERN+Stack+%7C+React+%7C+Next.js+%7C+Node.js;UI%2FUX+Enthusiast+with+a+Product+Mindset;Future+AI%2FML+Engineer;Breaking+Limits.+Crafting+Experiences." alt="Typing SVG" />
 
-### Building things that look 🔥 and work ⚙️
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+%7C+Node.js;UI%2FUX+Enthusiast;Future+AI%2FML+Engineer;Break+things.+Fix+things.+Ship+things." alt="Typing SVG" />
+**Full Stack Developer | Frontend & Backend Developer | MERN | React | Redux | Node.js | MongoDB | MySQL | UI/UX Enthusiast | AI/ML | Next.js | Core Java and more...**
 
-<br />
-
-<b>
-Full Stack Developer | Frontend & Backend Developer | MERN | React | Redux | Node.js | MongoDB | MySQL | UI/UX Enthusiast | AI/ML | Next.js | Core Java and more...
-</b>
-
-<br /><br />
+<br/>
 
 <a href="https://github.com/DeepGoyani">
-  <img src="https://komarev.com/ghpvc/?username=DeepGoyani&label=Profile%20Views&color=00f0ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DeepGoyani&label=Profile%20Views&color=FACC15&style=flat-square" />
 </a>
 <a href="https://github.com/DeepGoyani?tab=followers">
-  <img src="https://img.shields.io/github/followers/DeepGoyani?label=Followers&style=flat&color=ff00e6" />
+  <img src="https://img.shields.io/github/followers/DeepGoyani?label=Followers&style=flat-square&color=E5E7EB" />
 </a>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-ffdd00" />
+<img src="https://img.shields.io/badge/Status-Always%20Learning-0EA5E9?style=flat-square" />
 
 </div>
 
 ---
 
-## 🧬 Who Am I?
-
-> A first-year engineering student who treats coding like a superpower and GitHub like a lab.
-
-- 🚀 Turning **ideas → UI → full-stack apps**
-- 🧠 Currently deep-diving into **MERN + Next.js + clean architecture**
-- 🎯 Long-term goal: **Full Stack × AI/ML** practitioner
-- 🧩 Love: debugging weird bugs, refactoring ugly code into clean components
-- 🎨 Enjoy crafting layouts that *feel* like real products, not just college assignments
+<!-- GOLD DIVIDER -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Crafting%20Experiences%20Not%20Just%20Screens&width=1000&height=130" />
+</p>
 
 ---
 
-## 🧱 Tech Universe
+## 🧬 About Me
+
+> A first-year engineering student who writes code like a developer, not like “just another assignment”.
+
+- 🏁 Currently: Leveling up as a **Full Stack Developer (MERN + Next.js)**
+- 🎯 Goal: Build **production-quality apps** and stand out in placements & internships
+- 🧠 Strong interest in **clean UI, smooth UX, and scalable backend architectures**
+- 🧪 Treat each project like an experiment in better design and better logic
+- 🌱 On the path to: **AI/ML + system design + advanced React/Next patterns**
+
+---
+
+## 🧱 Tech Stack – My Luxury Toolbelt
 
 <div align="center">
 
-### 🔹 Languages
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Core%20Java-000?style=for-the-badge&logo=oracle" />
-<img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" />
+### 📝 Languages  
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Core%20Java-111827?style=for-the-badge&logo=coffeescript&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/C%20Language-111827?style=for-the-badge&logo=c&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=FACC15" />
 
-### 🔹 Frontend
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3" />
+### 🎨 Frontend  
+<img src="https://img.shields.io/badge/React.js-020617?style=for-the-badge&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Redux-020617?style=for-the-badge&logo=redux&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=F97316" />
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 
-### 🔹 Backend & DB
-<img src="https://img.shields.io/badge/Node.js-0B3B2D?style=for-the-badge&logo=nodedotjs" />
-<img src="https://img.shields.io/badge/Express-0B3B2D?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/MongoDB-0B3B2D?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/MySQL-0B3B2D?style=for-the-badge&logo=mysql" />
+### ⚙️ Backend & APIs  
+<img src="https://img.shields.io/badge/Node.js-022C22?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Express.js-022C22?style=for-the-badge&logo=express&logoColor=E5E7EB" />
+<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=FACC15" />
 
-### 🔹 Tools & Design
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma" />
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman" />
+### 🗄 Databases  
+<img src="https://img.shields.io/badge/MongoDB-052e16?style=for-the-badge&logo=mongodb&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
+
+### 🛠 Tools & Design  
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=E11D48" />
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=F97316" />
 
 </div>
 
@@ -75,83 +83,87 @@ Full Stack Developer | Frontend & Backend Developer | MERN | React | Redux | Nod
 
 ## 🎛 The Deep Dev Dashboard
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b>🔥 GitHub Stats</b><br/><br/>
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeepGoyani&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <b>📊 Most Used Tech</b><br/><br/>
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepGoyani&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeepGoyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepGoyani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepGoyani&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepGoyani&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧩 Project Highlights
+
+> Not just “projects”, but stepping stones towards building real products.
+
+### 🛒 E-Commerce Collections System  
+A reusable **Gallery Card system** powering multiple collections (Men, Women, Trousers and more):
+
+- Shared UI components for product cards  
+- Category & gender-based filters  
+- MERN stack setup (MongoDB + Express + Node + React)  
+- Designed to be extended into a full-scale store later  
+
+---
+
+### 🚌 Bus Timing & Info Dashboard  
+Built from Figma to frontend:
+
+- Clean interface for **local bus timings, routes, drivers & passenger info**  
+- Focused on **readability, spacing, and real use cases**  
+- A good example of **UI/UX thinking + dev execution**  
+
+---
+
+### 🍹 Meal & Cocktail Finder  
+A playground for API integration:
+
+- Search meals and cocktails via public APIs  
+- Results, details view, and state management  
+- Practiced **API error handling, loading states, clean component tree**
+
+> 🔍 Explore all repositories:  
+> 👉 [github.com/DeepGoyani?tab=repositories](https://github.com/DeepGoyani?tab=repositories)
+
+---
+
+## 🧠 Growth Roadmap
+
+> Because good developers don’t just code, they **evolve**.
+
+- ✅ Get comfortable with **MERN stack basics**  
+- ✅ Build multiple **full-stack apps** (auth, filters, dashboards)  
+- 🔄 Improve **DSA & problem solving** in JavaScript/Core Java  
+- 🔜 Dive into **Next.js advanced features** (SSR, ISR, middleware)  
+- 🔜 Start with **AI/ML fundamentals** (Python, NumPy, Pandas, basic models)  
+- 🎯 Long-term: Become a **Full Stack + AI/ML engineer** capable of shipping real-world products
+
+---
+
+## 🤝 Let’s Connect
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepGoyani&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
 
----
-
-## 🧩 Project Gallery (More Coming…)
-
-> Not just “college projects” – trying to make them feel like mini products.
-
-### 🛒 E-Commerce Collections System
-- Shared **Gallery Card** components reused for Men / Women / Trousers / more
-- Filters, categories, and collection-based views
-- Backend: **Node.js + Express + MongoDB**
-- Frontend: **React** with clean component structure
-
----
-
-### 🚌 Bus Timing & Info Dashboard
-- Figma-designed UI focusing on **readability & real-world use**
-- Shows local bus timings, routes, driver & passenger info
-- Designed to be extendable into a full analytics dashboard later
-
----
-
-### 🍽 Meal & Cocktail Finder
-- Fetches data from public APIs
-- Search, filter, details page
-- Good playground for **API integration + state management**
-
-> 🔍 Explore more here: [All Repositories](https://github.com/DeepGoyani?tab=repositories)
-
----
-
-## 🧠 My Dev Vibes
-
-- 💡 Prefer **clean logic + clean UI** over “just working somehow”
-- 🔁 Refactor until the code **explains itself**
-- 🧪 Love experimenting with:
-  - new UI layouts  
-  - component patterns  
-  - better API structures  
-- 🌱 Slowly entering **DSA, system design, and AI/ML** land
-
----
-
-## 📬 Let’s Connect
-
-<div align="center">
-
-🌐 **Portfolio**: https://deep-goyani.vercel.app/  
 📧 **Email**:deepgoyani.cg@gmail.com
 💼 **LinkedIn**:https://www.linkedin.com/in/deepgoyani/
+🌐 **Portfolio**: https://deep-goyani.vercel.app/  
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Projects-00f0ff?style=for-the-badge" />
+<a href="https://github.com/DeepGoyani">
+  <img src="https://img.shields.io/badge/Let's%20Build%20Something-111827?style=for-the-badge&logo=github&logoColor=FACC15" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-✨ _If something here helped or inspired you, drop a ⭐ on a repo – it costs nothing but means a lot._  
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:111827,100:000000" />
+</p>
