@@ -30,7 +30,7 @@
 <!-- GLASSMORPHIC DIVIDER -->
 <!-- GOLD DIVIDER -->
 <p align="center">
- <img src="https://github-widgetbox.vercel.app/api/badge?text=Full%20Stack%20Developer&color=0D1117&textColor=0EF6FF&svgIcons=cpu" />
+<img src="https://github-widgetbox.vercel.app/api/badge?text=MERN%20Stack%20Engineer&color=000000&textColor=38BDF8&svgIcons=rocket" />
 
 </p>
 
